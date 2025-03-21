@@ -1,1 +1,1 @@
-# Model-Compression-Inference-Acceleration
+# Model Compression and Inference Acceleration
